@@ -7,4 +7,7 @@ The project that I have done is a simple basic unit converter which is done usin
 ### What are the learnings that you have learned while working on this project?</br>
 The learnings that I have learned from Module 1 is that learned how to create a GitHub repository and how to properly structure the folder in the repository and also learned how to clone the GitHub repository with the Visual Studio Code. Apart from cloning the repository also learned apart from a single click to compile and run the program, I learned the back end process of how the compilation and the running of the program are done and how the errors are detected in the back end process and also the debugging the errors in the program and also a lot more about the course or the Module while working on the project.
 
+## CODE QUALITY CHECK
 
+
+![Codiga Code Quality](https://user-images.githubusercontent.com/42488087/154497546-61c6e0e8-54d6-467e-9a37-5cac522ce05d.png)
