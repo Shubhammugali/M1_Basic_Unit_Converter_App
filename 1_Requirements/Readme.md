@@ -32,7 +32,7 @@ THREATS
 * The only threat is that it is mentioned already in the weakness part.</br>
 
 ### 4W’s and 1H
-* Where it is used?
-Can be used in homes, schools, colleges, offices, Shops, etc.
-* Who will get the most benefits out of it?
-The benefits are mostly gained by the shopkeepers, students, office members, school staff members,etc.
+* Where it is used?</br>
+* Can be used in homes, schools, colleges, offices, Shops, etc.</br>
+* Who will get the most benefits out of it?</br>
+* The benefits are mostly gained by the shopkeepers, students, office members, school staff members,etc.
