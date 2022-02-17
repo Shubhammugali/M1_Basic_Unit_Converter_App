@@ -23,4 +23,8 @@ Table : Low level test plan</br>
 |L_02|Checks if the user opts for Temperature, Currency or Mass conversion.|Takes the character T, C or M as input.| The user input is converted accordingly.|
 |L_03|Check if the calculated output is displayed accordingly.|Output displayed according to the user's need.|Exit.|
 
+# OUTPUT 
+
+
+![Output Screenshot](https://user-images.githubusercontent.com/42488087/154481358-2b13545c-931b-4249-8faf-90c1639e4e0a.png)
 
