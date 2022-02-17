@@ -10,4 +10,4 @@ The learnings that I have learned from Module 1 is that learned how to create a 
 ## CODE QUALITY CHECK
 
 
-![Codiga Code Quality](https://user-images.githubusercontent.com/42488087/154497546-61c6e0e8-54d6-467e-9a37-5cac522ce05d.png)
+![Codiga Code Quality](https://user-images.githubusercontent.com/42488087/154497710-69e3fdaa-6c08-42f8-b02a-dbc3f986c64b.png)
