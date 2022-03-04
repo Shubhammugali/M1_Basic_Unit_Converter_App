@@ -2,7 +2,7 @@
 This is a simple unit converter that can be used for the sake of conversion of units and also the conversion of currency from USD to EURO and USD to JPY and USD to RMB and Fahrenheit to Celsius and Celsius to Fahrenheit and which is easy to use and which is user friendly.
 
 ## HIGH-LEVEL REQUIREMENTS
-* ID, Description of Test case, Input values, Expected Output, Actual Output</br>
+* ID, Description of Test case</br>
 
 Table : High level test plan</br>
 
