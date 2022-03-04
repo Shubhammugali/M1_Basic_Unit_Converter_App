@@ -18,7 +18,7 @@ Table : Low level test plan</br>
 |Test ID| Description| 
 |:------|:-----------|
 |L_01|The converter response rate will be higher. As soon as the user chooses any option the further instructions will be displayed.|
-|L_02|The layout of the converter will be simle and easy to understand.|
+|L_02|The layout of the converter will be simple and easy to understand.|
 |L_03|The converter uses a simple base system to convert the units from one unit to another unit.|
 |L_04|The converter is easy to operate and is a simple one.|
 ## SWOT ANALYSIS
