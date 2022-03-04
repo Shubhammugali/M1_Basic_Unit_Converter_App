@@ -1,8 +1,8 @@
-PROJ_NAME = PathFinding
+PROJ_NAME = BasicUnitConverter
 SRC = src/Project.c\
-src/PathFinding.c\
+src/BasicUnitConverter.c\
 
-TEST_SRC = src/test_Path.c\
+TEST_SRC = src/test_Converter.c\
 unity/unity.c\
 src/Project.c\
 
