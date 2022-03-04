@@ -1,6 +1,6 @@
 PROJ_NAME = BasicUnitConverter
 SRC = src/Project.c\
-src/BasicUnitConverter.c\
+src/Converter.c\
 
 TEST_SRC = src/test_Converter.c\
 unity/unity.c\
